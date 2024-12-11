@@ -1,0 +1,28 @@
+#orange {
+    color: #ff7700;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: rgb(0, 98, 255);
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}

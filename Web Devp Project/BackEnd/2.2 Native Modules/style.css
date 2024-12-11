@@ -1,0 +1,44 @@
+.tip {
+    justify-items: center;
+    font-size: 40pt;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tip-container {
+    display: flex;
+    align-items: baseline;
+}
+
+.size>* {
+    font-weight: bold;
+    color: navy;
+}
+
+.size7 {
+    font-size: 70px;
+}
+
+.size6 {
+    font-size: 60px;
+}
+
+.size5 {
+    font-size: 50px;
+}
+
+.size4 {
+    font-size: 40px;
+}
+
+.size3 {
+    font-size: 30px;
+}
+
+.size2 {
+    font-size: 20px;
+}
+
+.size1 {
+    font-size: 10px;
+}
